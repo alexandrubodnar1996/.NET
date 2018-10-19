@@ -1,0 +1,17 @@
+/Users/alexandrubodnar/Projects/Dotnet projects/sem3/laborator3/tests/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/alexandrubodnar/Projects/Dotnet projects/sem3/laborator3/tests/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/alexandrubodnar/Projects/Dotnet projects/sem3/laborator3/tests/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/alexandrubodnar/Projects/Dotnet projects/sem3/laborator3/tests/bin/Debug/netcoreapp2.1/tests.deps.json
+/Users/alexandrubodnar/Projects/Dotnet projects/sem3/laborator3/tests/bin/Debug/netcoreapp2.1/tests.runtimeconfig.json
+/Users/alexandrubodnar/Projects/Dotnet projects/sem3/laborator3/tests/bin/Debug/netcoreapp2.1/tests.runtimeconfig.dev.json
+/Users/alexandrubodnar/Projects/Dotnet projects/sem3/laborator3/tests/bin/Debug/netcoreapp2.1/tests.dll
+/Users/alexandrubodnar/Projects/Dotnet projects/sem3/laborator3/tests/bin/Debug/netcoreapp2.1/tests.pdb
+/Users/alexandrubodnar/Projects/Dotnet projects/sem3/laborator3/tests/bin/Debug/netcoreapp2.1/laborator3.dll
+/Users/alexandrubodnar/Projects/Dotnet projects/sem3/laborator3/tests/bin/Debug/netcoreapp2.1/laborator3.pdb
+/Users/alexandrubodnar/Projects/Dotnet projects/sem3/laborator3/tests/obj/Debug/netcoreapp2.1/tests.csprojAssemblyReference.cache
+/Users/alexandrubodnar/Projects/Dotnet projects/sem3/laborator3/tests/obj/Debug/netcoreapp2.1/tests.csproj.CoreCompileInputs.cache
+/Users/alexandrubodnar/Projects/Dotnet projects/sem3/laborator3/tests/obj/Debug/netcoreapp2.1/tests.AssemblyInfoInputs.cache
+/Users/alexandrubodnar/Projects/Dotnet projects/sem3/laborator3/tests/obj/Debug/netcoreapp2.1/tests.AssemblyInfo.cs
+/Users/alexandrubodnar/Projects/Dotnet projects/sem3/laborator3/tests/obj/Debug/netcoreapp2.1/tests.csproj.CopyComplete
+/Users/alexandrubodnar/Projects/Dotnet projects/sem3/laborator3/tests/obj/Debug/netcoreapp2.1/tests.dll
+/Users/alexandrubodnar/Projects/Dotnet projects/sem3/laborator3/tests/obj/Debug/netcoreapp2.1/tests.pdb

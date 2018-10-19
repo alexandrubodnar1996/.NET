@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{22A37F00-2339-4AFB-A36C-233ACE22B7BA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="laborator3lib2/ProductRepository.cs">
+    <Files>
+      <File FileName="testslib2/ProductRepositoryTest.cs" Line="48" Column="63" />
+      <File FileName="laborator3lib2/ProductRepository.cs" Line="9" Column="1" />
+      <File FileName="laborator3lib2/Product.cs" Line="11" Column="34" />
+      <File FileName="tests/ProductFactory.cs" Line="18" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="laborator3" expanded="True">
+            <Node name="testslib2" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
