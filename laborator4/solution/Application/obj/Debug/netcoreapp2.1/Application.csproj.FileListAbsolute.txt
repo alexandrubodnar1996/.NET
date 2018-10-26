@@ -1,0 +1,14 @@
+/Users/alexandrubodnar/Projects/Dotnet projects/sem4/second solution/solution/Application/bin/Debug/netcoreapp2.1/Application.deps.json
+/Users/alexandrubodnar/Projects/Dotnet projects/sem4/second solution/solution/Application/bin/Debug/netcoreapp2.1/Application.runtimeconfig.json
+/Users/alexandrubodnar/Projects/Dotnet projects/sem4/second solution/solution/Application/bin/Debug/netcoreapp2.1/Application.runtimeconfig.dev.json
+/Users/alexandrubodnar/Projects/Dotnet projects/sem4/second solution/solution/Application/bin/Debug/netcoreapp2.1/Application.dll
+/Users/alexandrubodnar/Projects/Dotnet projects/sem4/second solution/solution/Application/bin/Debug/netcoreapp2.1/Application.pdb
+/Users/alexandrubodnar/Projects/Dotnet projects/sem4/second solution/solution/Application/obj/Debug/netcoreapp2.1/Application.csproj.CoreCompileInputs.cache
+/Users/alexandrubodnar/Projects/Dotnet projects/sem4/second solution/solution/Application/obj/Debug/netcoreapp2.1/Application.AssemblyInfoInputs.cache
+/Users/alexandrubodnar/Projects/Dotnet projects/sem4/second solution/solution/Application/obj/Debug/netcoreapp2.1/Application.AssemblyInfo.cs
+/Users/alexandrubodnar/Projects/Dotnet projects/sem4/second solution/solution/Application/obj/Debug/netcoreapp2.1/Application.dll
+/Users/alexandrubodnar/Projects/Dotnet projects/sem4/second solution/solution/Application/obj/Debug/netcoreapp2.1/Application.pdb
+/Users/alexandrubodnar/Projects/Dotnet projects/sem4/second solution/solution/Application/bin/Debug/netcoreapp2.1/classes.dll
+/Users/alexandrubodnar/Projects/Dotnet projects/sem4/second solution/solution/Application/bin/Debug/netcoreapp2.1/classes.pdb
+/Users/alexandrubodnar/Projects/Dotnet projects/sem4/second solution/solution/Application/obj/Debug/netcoreapp2.1/Application.csprojAssemblyReference.cache
+/Users/alexandrubodnar/Projects/Dotnet projects/sem4/second solution/solution/Application/obj/Debug/netcoreapp2.1/Application.csproj.CopyComplete

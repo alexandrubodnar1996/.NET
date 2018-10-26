@@ -1,0 +1,9 @@
+/Users/alexandrubodnar/Projects/Dotnet projects/sem4/second solution/solution/classes/bin/Debug/netcoreapp2.1/classes.deps.json
+/Users/alexandrubodnar/Projects/Dotnet projects/sem4/second solution/solution/classes/bin/Debug/netcoreapp2.1/classes.dll
+/Users/alexandrubodnar/Projects/Dotnet projects/sem4/second solution/solution/classes/bin/Debug/netcoreapp2.1/classes.pdb
+/Users/alexandrubodnar/Projects/Dotnet projects/sem4/second solution/solution/classes/obj/Debug/netcoreapp2.1/classes.csprojAssemblyReference.cache
+/Users/alexandrubodnar/Projects/Dotnet projects/sem4/second solution/solution/classes/obj/Debug/netcoreapp2.1/classes.csproj.CoreCompileInputs.cache
+/Users/alexandrubodnar/Projects/Dotnet projects/sem4/second solution/solution/classes/obj/Debug/netcoreapp2.1/classes.AssemblyInfoInputs.cache
+/Users/alexandrubodnar/Projects/Dotnet projects/sem4/second solution/solution/classes/obj/Debug/netcoreapp2.1/classes.AssemblyInfo.cs
+/Users/alexandrubodnar/Projects/Dotnet projects/sem4/second solution/solution/classes/obj/Debug/netcoreapp2.1/classes.dll
+/Users/alexandrubodnar/Projects/Dotnet projects/sem4/second solution/solution/classes/obj/Debug/netcoreapp2.1/classes.pdb

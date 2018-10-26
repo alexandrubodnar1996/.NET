@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{189EB78D-2F42-4BD4-B89A-C5F72E84DC41}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="classes/IRepository.cs">
+    <Files>
+      <File FileName="classes/Employee.cs" Line="17" Column="10" />
+      <File FileName="Application/Program.cs" Line="19" Column="44" />
+      <File FileName="classes/Customer.cs" Line="9" Column="1" />
+      <File FileName="classes/ApplicationContext.cs" Line="54" Column="1" />
+      <File FileName="classes/CustomerRepository.cs" Line="23" Column="54" />
+      <File FileName="classes/EmployeeRepository.cs" Line="4" Column="19" />
+      <File FileName="classes/IRepository.cs" Line="13" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Application PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
