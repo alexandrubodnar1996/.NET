@@ -1,0 +1,12 @@
+/Users/alexandrubodnar/Desktop/DOTNET MVC/solution/Business/bin/Debug/netcoreapp2.1/Business.deps.json
+/Users/alexandrubodnar/Desktop/DOTNET MVC/solution/Business/bin/Debug/netcoreapp2.1/Business.dll
+/Users/alexandrubodnar/Desktop/DOTNET MVC/solution/Business/bin/Debug/netcoreapp2.1/Business.pdb
+/Users/alexandrubodnar/Desktop/DOTNET MVC/solution/Business/bin/Debug/netcoreapp2.1/DataAccess.dll
+/Users/alexandrubodnar/Desktop/DOTNET MVC/solution/Business/bin/Debug/netcoreapp2.1/DataAccess.pdb
+/Users/alexandrubodnar/Desktop/DOTNET MVC/solution/Business/obj/Debug/netcoreapp2.1/Business.csprojAssemblyReference.cache
+/Users/alexandrubodnar/Desktop/DOTNET MVC/solution/Business/obj/Debug/netcoreapp2.1/Business.csproj.CoreCompileInputs.cache
+/Users/alexandrubodnar/Desktop/DOTNET MVC/solution/Business/obj/Debug/netcoreapp2.1/Business.AssemblyInfoInputs.cache
+/Users/alexandrubodnar/Desktop/DOTNET MVC/solution/Business/obj/Debug/netcoreapp2.1/Business.AssemblyInfo.cs
+/Users/alexandrubodnar/Desktop/DOTNET MVC/solution/Business/obj/Debug/netcoreapp2.1/Business.csproj.CopyComplete
+/Users/alexandrubodnar/Desktop/DOTNET MVC/solution/Business/obj/Debug/netcoreapp2.1/Business.dll
+/Users/alexandrubodnar/Desktop/DOTNET MVC/solution/Business/obj/Debug/netcoreapp2.1/Business.pdb

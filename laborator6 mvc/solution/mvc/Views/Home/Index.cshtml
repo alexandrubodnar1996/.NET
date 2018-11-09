@@ -1,0 +1,54 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+@model List<DataAccess.PointOfInterest>
+
+<div>
+    <div id="my-points-container">
+        <div class="point-left">ID</div>
+        <div class="point-right">Coordinates</div>
+        <hr />
+        @foreach (var item in Model)
+        {
+
+            <div class="point-left">@item.Id</div>
+            <div class="point-right">@item.Coordinates</div>
+            <br />
+        }
+    </div>
+    <div class="my-form">
+        @using (Html.BeginForm("CreatePoint", "Home"))
+        {
+
+
+            <input type="submit" value="Create" />
+
+            <input name="coordinates" placeholder="coordinates..." type="text" />
+        }
+    </div>
+
+    <div class="my-form">
+        @using (Html.BeginForm("DeletePoint", "Home"))
+        {
+
+
+            <input type="submit" value="Delete" />
+
+            <input name="id" placeholder="ID..." type="text" />
+        }
+    </div>
+
+    <div class="my-form">
+        @using (Html.BeginForm("UpdatePoint", "Home"))
+        {
+
+
+            <input type="submit" value="Update" />
+
+            <input name="id" placeholder="ID..." type="text" />
+            <input name="newCoords" placeholder="New coordinates" type="text" />
+        }
+    </div>
+</div>

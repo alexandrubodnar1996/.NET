@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{494D5BAA-E870-426D-B816-7F2748C7F983}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="mvc/wwwroot/css/site.css">
+    <Files>
+      <File FileName="DataAccess/PointOfInterest.cs" Line="16" Column="16" />
+      <File FileName="mvc/Startup.cs" Line="42" Column="104" />
+      <File FileName="mvc/Program.cs" Line="17" Column="1" />
+      <File FileName="DataAccess/ApplicationContext.cs" Line="14" Column="10" />
+      <File FileName="mvc/Controllers/HomeController.cs" Line="32" Column="33" />
+      <File FileName="mvc/Views/Home/Index.cshtml" Line="10" Column="37" />
+      <File FileName="Business/Repository.cs" Line="22" Column="51" />
+      <File FileName="Business/IRepository.cs" Line="14" Column="23" />
+      <File FileName="mvc/wwwroot/css/site.css" Line="8" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.mvc PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

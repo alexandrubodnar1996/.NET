@@ -1,0 +1,74 @@
+C:/Users/folariu/Documents/Visual Studio 2017/Projects/TodoApplication/TodoApplication/bin/Debug/netcoreapp2.1/TodoApplication.deps.json
+C:/Users/folariu/Documents/Visual Studio 2017/Projects/TodoApplication/TodoApplication/bin/Debug/netcoreapp2.1/TodoApplication.runtimeconfig.json
+C:/Users/folariu/Documents/Visual Studio 2017/Projects/TodoApplication/TodoApplication/bin/Debug/netcoreapp2.1/TodoApplication.runtimeconfig.dev.json
+C:/Users/folariu/Documents/Visual Studio 2017/Projects/TodoApplication/TodoApplication/bin/Debug/netcoreapp2.1/TodoApplication.dll
+C:/Users/folariu/Documents/Visual Studio 2017/Projects/TodoApplication/TodoApplication/bin/Debug/netcoreapp2.1/TodoApplication.pdb
+C:/Users/folariu/Documents/Visual Studio 2017/Projects/TodoApplication/TodoApplication/bin/Debug/netcoreapp2.1/TodoApplication.Views.dll
+C:/Users/folariu/Documents/Visual Studio 2017/Projects/TodoApplication/TodoApplication/bin/Debug/netcoreapp2.1/TodoApplication.Views.pdb
+C:/Users/folariu/Documents/Visual Studio 2017/Projects/TodoApplication/TodoApplication/obj/Debug/netcoreapp2.1/TodoApplication.csprojAssemblyReference.cache
+C:/Users/folariu/Documents/Visual Studio 2017/Projects/TodoApplication/TodoApplication/obj/Debug/netcoreapp2.1/TodoApplication.csproj.CoreCompileInputs.cache
+C:/Users/folariu/Documents/Visual Studio 2017/Projects/TodoApplication/TodoApplication/obj/Debug/netcoreapp2.1/TodoApplication.RazorAssemblyInfo.cache
+C:/Users/folariu/Documents/Visual Studio 2017/Projects/TodoApplication/TodoApplication/obj/Debug/netcoreapp2.1/TodoApplication.RazorAssemblyInfo.cs
+C:/Users/folariu/Documents/Visual Studio 2017/Projects/TodoApplication/TodoApplication/obj/Debug/netcoreapp2.1/TodoApplication.AssemblyInfoInputs.cache
+C:/Users/folariu/Documents/Visual Studio 2017/Projects/TodoApplication/TodoApplication/obj/Debug/netcoreapp2.1/TodoApplication.AssemblyInfo.cs
+C:/Users/folariu/Documents/Visual Studio 2017/Projects/TodoApplication/TodoApplication/obj/Debug/netcoreapp2.1/TodoApplication.TagHelpers.input.cache
+C:/Users/folariu/Documents/Visual Studio 2017/Projects/TodoApplication/TodoApplication/obj/Debug/netcoreapp2.1/TodoApplication.TagHelpers.output.cache
+C:/Users/folariu/Documents/Visual Studio 2017/Projects/TodoApplication/TodoApplication/obj/Debug/netcoreapp2.1/TodoApplication.RazorCoreGenerate.cache
+C:/Users/folariu/Documents/Visual Studio 2017/Projects/TodoApplication/TodoApplication/obj/Debug/netcoreapp2.1/Razor/Views/Home/About.g.cshtml.cs
+C:/Users/folariu/Documents/Visual Studio 2017/Projects/TodoApplication/TodoApplication/obj/Debug/netcoreapp2.1/Razor/Views/Home/Contact.g.cshtml.cs
+C:/Users/folariu/Documents/Visual Studio 2017/Projects/TodoApplication/TodoApplication/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+C:/Users/folariu/Documents/Visual Studio 2017/Projects/TodoApplication/TodoApplication/obj/Debug/netcoreapp2.1/Razor/Views/Home/Privacy.g.cshtml.cs
+C:/Users/folariu/Documents/Visual Studio 2017/Projects/TodoApplication/TodoApplication/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
+C:/Users/folariu/Documents/Visual Studio 2017/Projects/TodoApplication/TodoApplication/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+C:/Users/folariu/Documents/Visual Studio 2017/Projects/TodoApplication/TodoApplication/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+C:/Users/folariu/Documents/Visual Studio 2017/Projects/TodoApplication/TodoApplication/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+C:/Users/folariu/Documents/Visual Studio 2017/Projects/TodoApplication/TodoApplication/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+C:/Users/folariu/Documents/Visual Studio 2017/Projects/TodoApplication/TodoApplication/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+C:/Users/folariu/Documents/Visual Studio 2017/Projects/TodoApplication/TodoApplication/obj/Debug/netcoreapp2.1/TodoApplication.RazorTargetAssemblyInfo.cache
+C:/Users/folariu/Documents/Visual Studio 2017/Projects/TodoApplication/TodoApplication/obj/Debug/netcoreapp2.1/TodoApplication.RazorTargetAssemblyInfo.cs
+C:/Users/folariu/Documents/Visual Studio 2017/Projects/TodoApplication/TodoApplication/obj/Debug/netcoreapp2.1/TodoApplication.Views.pdb
+C:/Users/folariu/Documents/Visual Studio 2017/Projects/TodoApplication/TodoApplication/obj/Debug/netcoreapp2.1/TodoApplication.dll
+C:/Users/folariu/Documents/Visual Studio 2017/Projects/TodoApplication/TodoApplication/obj/Debug/netcoreapp2.1/TodoApplication.pdb
+C:/Users/folariu/Documents/Visual Studio 2017/Projects/TodoApplication/TodoApplication/obj/Debug/netcoreapp2.1/TodoApplication.csproj.CopyComplete
+C:/Users/folariu/Documents/Visual Studio 2017/Projects/TodoApplication/TodoApplication/obj/Debug/netcoreapp2.1/Razor/Views/Todos/Create.g.cshtml.cs
+C:/Users/folariu/Documents/Visual Studio 2017/Projects/TodoApplication/TodoApplication/obj/Debug/netcoreapp2.1/Razor/Views/Todos/Delete.g.cshtml.cs
+C:/Users/folariu/Documents/Visual Studio 2017/Projects/TodoApplication/TodoApplication/obj/Debug/netcoreapp2.1/Razor/Views/Todos/Details.g.cshtml.cs
+C:/Users/folariu/Documents/Visual Studio 2017/Projects/TodoApplication/TodoApplication/obj/Debug/netcoreapp2.1/Razor/Views/Todos/Edit.g.cshtml.cs
+C:/Users/folariu/Documents/Visual Studio 2017/Projects/TodoApplication/TodoApplication/obj/Debug/netcoreapp2.1/Razor/Views/Todos/Index.g.cshtml.cs
+/Users/alexandrubodnar/Desktop/dotnet repo/laborator6/TodoApplication/TodoApplication/bin/Debug/netcoreapp2.1/TodoApplication.deps.json
+/Users/alexandrubodnar/Desktop/dotnet repo/laborator6/TodoApplication/TodoApplication/bin/Debug/netcoreapp2.1/TodoApplication.runtimeconfig.json
+/Users/alexandrubodnar/Desktop/dotnet repo/laborator6/TodoApplication/TodoApplication/bin/Debug/netcoreapp2.1/TodoApplication.runtimeconfig.dev.json
+/Users/alexandrubodnar/Desktop/dotnet repo/laborator6/TodoApplication/TodoApplication/bin/Debug/netcoreapp2.1/TodoApplication.dll
+/Users/alexandrubodnar/Desktop/dotnet repo/laborator6/TodoApplication/TodoApplication/bin/Debug/netcoreapp2.1/TodoApplication.pdb
+/Users/alexandrubodnar/Desktop/dotnet repo/laborator6/TodoApplication/TodoApplication/bin/Debug/netcoreapp2.1/TodoApplication.Views.dll
+/Users/alexandrubodnar/Desktop/dotnet repo/laborator6/TodoApplication/TodoApplication/bin/Debug/netcoreapp2.1/TodoApplication.Views.pdb
+/Users/alexandrubodnar/Desktop/dotnet repo/laborator6/TodoApplication/TodoApplication/obj/Debug/netcoreapp2.1/TodoApplication.csprojAssemblyReference.cache
+/Users/alexandrubodnar/Desktop/dotnet repo/laborator6/TodoApplication/TodoApplication/obj/Debug/netcoreapp2.1/TodoApplication.csproj.CoreCompileInputs.cache
+/Users/alexandrubodnar/Desktop/dotnet repo/laborator6/TodoApplication/TodoApplication/obj/Debug/netcoreapp2.1/TodoApplication.RazorAssemblyInfo.cache
+/Users/alexandrubodnar/Desktop/dotnet repo/laborator6/TodoApplication/TodoApplication/obj/Debug/netcoreapp2.1/TodoApplication.RazorAssemblyInfo.cs
+/Users/alexandrubodnar/Desktop/dotnet repo/laborator6/TodoApplication/TodoApplication/obj/Debug/netcoreapp2.1/TodoApplication.AssemblyInfoInputs.cache
+/Users/alexandrubodnar/Desktop/dotnet repo/laborator6/TodoApplication/TodoApplication/obj/Debug/netcoreapp2.1/TodoApplication.AssemblyInfo.cs
+/Users/alexandrubodnar/Desktop/dotnet repo/laborator6/TodoApplication/TodoApplication/obj/Debug/netcoreapp2.1/TodoApplication.TagHelpers.input.cache
+/Users/alexandrubodnar/Desktop/dotnet repo/laborator6/TodoApplication/TodoApplication/obj/Debug/netcoreapp2.1/TodoApplication.TagHelpers.output.cache
+/Users/alexandrubodnar/Desktop/dotnet repo/laborator6/TodoApplication/TodoApplication/obj/Debug/netcoreapp2.1/TodoApplication.RazorCoreGenerate.cache
+/Users/alexandrubodnar/Desktop/dotnet repo/laborator6/TodoApplication/TodoApplication/obj/Debug/netcoreapp2.1/Razor/Views/Home/About.g.cshtml.cs
+/Users/alexandrubodnar/Desktop/dotnet repo/laborator6/TodoApplication/TodoApplication/obj/Debug/netcoreapp2.1/Razor/Views/Home/Contact.g.cshtml.cs
+/Users/alexandrubodnar/Desktop/dotnet repo/laborator6/TodoApplication/TodoApplication/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+/Users/alexandrubodnar/Desktop/dotnet repo/laborator6/TodoApplication/TodoApplication/obj/Debug/netcoreapp2.1/Razor/Views/Home/Privacy.g.cshtml.cs
+/Users/alexandrubodnar/Desktop/dotnet repo/laborator6/TodoApplication/TodoApplication/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
+/Users/alexandrubodnar/Desktop/dotnet repo/laborator6/TodoApplication/TodoApplication/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+/Users/alexandrubodnar/Desktop/dotnet repo/laborator6/TodoApplication/TodoApplication/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/alexandrubodnar/Desktop/dotnet repo/laborator6/TodoApplication/TodoApplication/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/Users/alexandrubodnar/Desktop/dotnet repo/laborator6/TodoApplication/TodoApplication/obj/Debug/netcoreapp2.1/Razor/Views/Todos/Create.g.cshtml.cs
+/Users/alexandrubodnar/Desktop/dotnet repo/laborator6/TodoApplication/TodoApplication/obj/Debug/netcoreapp2.1/Razor/Views/Todos/Delete.g.cshtml.cs
+/Users/alexandrubodnar/Desktop/dotnet repo/laborator6/TodoApplication/TodoApplication/obj/Debug/netcoreapp2.1/Razor/Views/Todos/Details.g.cshtml.cs
+/Users/alexandrubodnar/Desktop/dotnet repo/laborator6/TodoApplication/TodoApplication/obj/Debug/netcoreapp2.1/Razor/Views/Todos/Edit.g.cshtml.cs
+/Users/alexandrubodnar/Desktop/dotnet repo/laborator6/TodoApplication/TodoApplication/obj/Debug/netcoreapp2.1/Razor/Views/Todos/Index.g.cshtml.cs
+/Users/alexandrubodnar/Desktop/dotnet repo/laborator6/TodoApplication/TodoApplication/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/alexandrubodnar/Desktop/dotnet repo/laborator6/TodoApplication/TodoApplication/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/alexandrubodnar/Desktop/dotnet repo/laborator6/TodoApplication/TodoApplication/obj/Debug/netcoreapp2.1/TodoApplication.RazorTargetAssemblyInfo.cache
+/Users/alexandrubodnar/Desktop/dotnet repo/laborator6/TodoApplication/TodoApplication/obj/Debug/netcoreapp2.1/TodoApplication.RazorTargetAssemblyInfo.cs
+/Users/alexandrubodnar/Desktop/dotnet repo/laborator6/TodoApplication/TodoApplication/obj/Debug/netcoreapp2.1/TodoApplication.Views.pdb
+/Users/alexandrubodnar/Desktop/dotnet repo/laborator6/TodoApplication/TodoApplication/obj/Debug/netcoreapp2.1/TodoApplication.dll
+/Users/alexandrubodnar/Desktop/dotnet repo/laborator6/TodoApplication/TodoApplication/obj/Debug/netcoreapp2.1/TodoApplication.pdb
+/Users/alexandrubodnar/Desktop/dotnet repo/laborator6/TodoApplication/TodoApplication/obj/Debug/netcoreapp2.1/TodoApplication.csproj.CopyComplete

@@ -1,0 +1,9 @@
+/Users/alexandrubodnar/Desktop/DOTNET MVC/solution/DataAccess/bin/Debug/netcoreapp2.1/DataAccess.deps.json
+/Users/alexandrubodnar/Desktop/DOTNET MVC/solution/DataAccess/bin/Debug/netcoreapp2.1/DataAccess.dll
+/Users/alexandrubodnar/Desktop/DOTNET MVC/solution/DataAccess/bin/Debug/netcoreapp2.1/DataAccess.pdb
+/Users/alexandrubodnar/Desktop/DOTNET MVC/solution/DataAccess/obj/Debug/netcoreapp2.1/DataAccess.csprojAssemblyReference.cache
+/Users/alexandrubodnar/Desktop/DOTNET MVC/solution/DataAccess/obj/Debug/netcoreapp2.1/DataAccess.csproj.CoreCompileInputs.cache
+/Users/alexandrubodnar/Desktop/DOTNET MVC/solution/DataAccess/obj/Debug/netcoreapp2.1/DataAccess.AssemblyInfoInputs.cache
+/Users/alexandrubodnar/Desktop/DOTNET MVC/solution/DataAccess/obj/Debug/netcoreapp2.1/DataAccess.AssemblyInfo.cs
+/Users/alexandrubodnar/Desktop/DOTNET MVC/solution/DataAccess/obj/Debug/netcoreapp2.1/DataAccess.dll
+/Users/alexandrubodnar/Desktop/DOTNET MVC/solution/DataAccess/obj/Debug/netcoreapp2.1/DataAccess.pdb
